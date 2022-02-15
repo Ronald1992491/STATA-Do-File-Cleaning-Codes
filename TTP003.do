@@ -1,8 +1,8 @@
 *********************************************************************************
 *	Project:		TATU PAMOJA			   					 					*
 *	Description :	Cleaning and fixing of errors for the Behavioural Survey003	*	
-*	Date created:	October 18, 2019                                            *
-*	Programer: 		Otieno, Fredrick                               	         	*
+*	Date created:	December 04, 2021                                            *
+*	Programer: 		Omolo, Ronald                               	         	*
 *	Date modified:	                                           					*
 *	Mdified by:																	*
 *	STATA Ver:  	14.2                                                     	*
